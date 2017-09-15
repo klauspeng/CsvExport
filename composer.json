@@ -1,0 +1,8 @@
+{
+    "name": "klauspeng/CsvExport",
+    "description": "http分块导出csv",
+    "require": {
+        "php": "^5.3",
+        "another-vendor/package": "1.*"
+    }
+}

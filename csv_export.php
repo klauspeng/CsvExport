@@ -5,7 +5,7 @@ namespace klauspeng;
 /**
 *CSV分块导出
 */
-class CsvExport
+class csv_export
 {
     // 每次查询数量
     public $pre_count = 5000;
@@ -13,7 +13,7 @@ class CsvExport
     private $fp = null;
 
     /**
-     * CsvExport constructor.
+     * csv-export constructor.
      *
      * @param $name 文件名字（默认export）
      */

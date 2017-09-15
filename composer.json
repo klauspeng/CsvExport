@@ -1,5 +1,5 @@
 {
-    "name": "klauspeng/CsvExport",
+    "name": "klauspeng/csv_export",
     "description": "http分块导出csv",
     "require": {
         "php": "^5.3",

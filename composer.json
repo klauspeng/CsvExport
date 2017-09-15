@@ -1,6 +1,7 @@
 {
     "name": "klauspeng/csv_export",
     "description": "http分块导出csv",
+    "license": "MIT",
     "require": {
         "php": "^5.3",
         "another-vendor/package": "1.*"

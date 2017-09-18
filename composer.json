@@ -3,7 +3,7 @@
     "description": "http分块导出csv",
     "license": "MIT",
     "require": {
-        "php": "^5.3"
+        "php": ">=5.3"
     },
     "autoload": {
         "psr-4": {"klauspeng\\": "/"}
